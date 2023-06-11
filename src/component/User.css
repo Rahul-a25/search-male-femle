@@ -1,0 +1,43 @@
+.contentuper{
+    margin: 50px 50px;
+}
+.contentwala{
+    margin: 50px;
+}
+.inputsRadio {
+    display: flex;
+    
+    margin: 20px 25px;
+}
+.inputsRadio span{
+    margin: 0px 20px;
+}
+.radiowala{
+    display: flex;
+    justify-content: flex-start;
+    margin: 0px 35px;
+    
+}
+.radiowala input{
+    display: flex;
+    margin: 0px 20px;
+}
+
+.radiowala .same{
+    display: flex;
+    margin: 0px 20px;
+    
+}
+.tablewala table th{
+    font-size: 20px;
+    color: white;
+}
+.tablebody  tr td span{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
+
+
+
+
