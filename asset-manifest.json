@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/search-male-femle/static/css/main.057fd268.css",
+    "main.js": "/search-male-femle/static/js/main.47044ada.js",
+    "static/js/787.ae8197fa.chunk.js": "/search-male-femle/static/js/787.ae8197fa.chunk.js",
+    "static/media/logo.svg": "/search-male-femle/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/search-male-femle/index.html",
+    "main.057fd268.css.map": "/search-male-femle/static/css/main.057fd268.css.map",
+    "main.47044ada.js.map": "/search-male-femle/static/js/main.47044ada.js.map",
+    "787.ae8197fa.chunk.js.map": "/search-male-femle/static/js/787.ae8197fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.057fd268.css",
+    "static/js/main.47044ada.js"
+  ]
+}
